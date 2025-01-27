@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Shaik Ahamed
+Shaik Muddasir Ahamed
 Web developer
 
 Show Contacts
